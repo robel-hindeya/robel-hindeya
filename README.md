@@ -18,4 +18,3 @@ This is not a highlight reel.
  This is the real journey of building something from zero.
  
 If you’re building, creating, or thinking long-term we’ll get along.
-
