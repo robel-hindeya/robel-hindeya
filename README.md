@@ -19,4 +19,3 @@ This is not a highlight reel.
  
 If you’re building, creating, or thinking long-term we’ll get along.
 
-
