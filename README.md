@@ -22,7 +22,6 @@ If you’re building, creating, or thinking long-term we’ll get along.
 
 What I'm Focused On
 
-<img src="https://cdn.simpleicons.org/openai/412991" width="16"/> AI-powered systems
 
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16"/> Full-stack development (Node.js, Django, SQL)
 
