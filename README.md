@@ -1,4 +1,4 @@
-For the past 5 years, I’ve been showing up every day no results, no applause, just work. While others stopped, I kept going.
+For the past 4 years, I’ve been showing up every day no results, no applause, just work. While others stopped, I kept going.
  
 Because one thing is clear:
  Execution beats everything.
