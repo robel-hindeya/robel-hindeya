@@ -20,9 +20,4 @@ This is not a highlight reel.
 If you’re building, creating, or thinking long-term we’ll get along.
 
 
-What I'm Focused On
-
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16"/> Full-stack development (Node.js, Django, SQL)
-
 
