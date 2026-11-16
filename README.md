@@ -7,7 +7,7 @@ Now I’m building xedom a system, not just a product.
  A platform where creators upload content once, and it gets distributed, monetized, and scaled automatically.
  
 I’m focused on:
- • AI-powered systems
+ • AI systems
  • Full-stack development (Node.js, Django, SQL)
  • Turning attention into income
  
